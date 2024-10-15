@@ -1,0 +1,7 @@
+mode: set
+github.com/1ssk/fibonachi_test.git/fib.go:5.23,6.12 1 1
+github.com/1ssk/fibonachi_test.git/fib.go:6.12,8.3 1 1
+github.com/1ssk/fibonachi_test.git/fib.go:8.8,8.19 1 1
+github.com/1ssk/fibonachi_test.git/fib.go:8.19,10.3 1 1
+github.com/1ssk/fibonachi_test.git/fib.go:10.8,12.3 1 1
+github.com/1ssk/fibonachi_test.git/fib.go:15.13,17.2 1 0
